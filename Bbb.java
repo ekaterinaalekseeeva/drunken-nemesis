@@ -6,10 +6,17 @@ public class Bbb {
         System.out.println("hello world!!");
         System.out.println("hello world!!!");
         System.out.println("hello world!!!!");
+        System.out.println("hello world!!!!");
+        System.out.println("hello world!!!!");
         //bb
         //here
         //cc
         //and here
+
+        if (true){
+            int a = 1;
+            System.out.println(a);
+        }
     }
 
     public int foo(){
