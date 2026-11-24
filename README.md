@@ -6,3 +6,7 @@
 | one<br/>two<br/>three lines  |  fff | fff  |
 
 
+```mermaid
+flowchart TD
+    a --> b
+```
